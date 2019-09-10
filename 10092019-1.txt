@@ -1,0 +1,4 @@
+ich habe das lokal in HD in c:\Git erstellt.
+mit $git add zum lokalen repo hinzugefügt
+aber zuerst im staging
+wenn ich changes mache, als es im Staging ist, dann muß ich es wieder ADDen
