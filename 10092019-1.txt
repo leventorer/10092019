@@ -4,3 +4,5 @@ aber zuerst im staging
 wenn ich changes mache, als es im Staging ist, dann muß ich es wieder ADDen
 committed und pushed.
 dann added changes
+
+mehr changes, 16:08
